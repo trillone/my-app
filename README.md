@@ -1,3 +1,3 @@
-# Linked-Yeon 2023
+#  Movie app 2020
 
-React JS Fundamentals Course 2023
+React JS Fundamentals Course 2020
